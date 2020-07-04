@@ -16,6 +16,8 @@ public class TC_VerifyLogin {
 		driver.get("https://www.facebook.com/");
 		
 		System.out.println("added 729");
+		System.out.println("added 741");
+		
 		
 		String titlefrombrd = "Facebook – log in or sign up";
 		String gettitleFromPortal = driver.getTitle();
