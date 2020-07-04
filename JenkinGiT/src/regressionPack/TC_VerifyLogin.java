@@ -18,6 +18,7 @@ public class TC_VerifyLogin {
 		System.out.println("added 729");
 		System.out.println("added 741");
 		System.out.println("added 742");
+		System.out.println("added 750 added my name to author");
 		
 		
 		String titlefrombrd = "Facebook – log in or sign up";
